@@ -1,0 +1,4 @@
+Sample text for hash generation..
+
+// hash 1 (single period) : 0f8c8c56a38fee18b138271f1604ca08bada6b97caf83a71b024b11772877575
+// hash 2 (double period) : 456a6ebed3900a3affd151eaa75064e64a02d7ccf230d68cbfa3373fefb4539d
